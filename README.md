@@ -3,7 +3,7 @@ A deep visual and data-driven analysis of the Titanic tragedy — understanding 
 
 # 🚢 Titanic Survival Analysis
 
-![Titanic Banner](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F341640321710187762%2F&psig=AOvVaw2HpsLu3dx3BSsmT_LJ2TG2&ust=1752404806189000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCPi_1OKWt44DFQAAAAAdAAAAABAE)
+![Titanic Banner](![Famous Shipwrecks In History](https://github.com/user-attachments/assets/4b88863c-d814-4f57-9b73-fbf3a64253d2))
 
 ---
 
